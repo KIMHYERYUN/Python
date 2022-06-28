@@ -1,0 +1,14 @@
+#class - Question : attributes(text,answer)
+#새로운 문제에 대한 객체 생성 - 새로운 문제가 생성될때마다 실제로 초기화
+#속성 두개를 전달하는 객체
+
+#Question 객체들이 모인 question_bank 리스트 생성 - 질문 모임
+
+#quiz_brain 클래스 만들기 : attributes(question_number=0, question_list, score=0)
+#질문하기
+#대답하기
+#답변체크하기
+#점수매기기
+
+
+
