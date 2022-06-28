@@ -1,0 +1,123 @@
+{
+  "tatus": "ok",
+  "totalResults": 2823,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Samsung app hints at a Galaxy Watch 5 Pro",
+      "description": "Samsung might tweak its Galaxy Watch strategy the next time around. 9to5Google and The Verge report the company's latest beta Health app listed both a Galaxy Watch 5 and, unusually, a Galaxy Watch 5 Pro. There's no mention of a Galaxy Watch 5 Classic. While t…",
+      "url": "https://www.engadget.com/samsung-galaxy-watch-5-pro-leak-193017693.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/41205b30-e36e-11ec-bfff-d00a2d3cf108",
+      "publishedAt": "2022-06-03T19:30:17Z",
+      "content": "Samsung might tweak its Galaxy Watch strategy the next time around. 9to5Google and The Verge report the company's latest beta Health app listed both a Galaxy Watch 5 and, unusually, a Galaxy Watch 5 … [+910 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Valentina Palladino",
+      "title": "AirPods Pro drop to $180, plus the rest of the week's best tech deals",
+      "description": "Memorial Day may have come and gone, but you can still pick up some of our favorite electronics for less thanks to some holiday deals that are still available now. Apple's third-generation AirPods are still down to $150, and the AirPods Pro have returned to a…",
+      "url": "https://www.engadget.com/apple-airpods-pro-drop-to-180-best-tech-deals-this-week-154557377.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-07/bd13d570-cdc0-11ea-bddb-696b5bd00b0a",
+      "publishedAt": "2022-06-03T15:45:57Z",
+      "content": "Memorial Day may have come and gone, but you can still pick up some of our favorite electronics for less thanks to some holiday deals that are still available now. Apple's third-generation AirPods ar… [+6803 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "The Accuracy of Airfare Predictions Is Up in the Air",
+      "description": "The world's current weirdness has made it more difficult for tools like Kayak and Google Flights to guess the best time to buy a plane ticket.",
+      "url": "https://www.wired.com/story/airfare-prediction-tools/",
+      "urlToImage": "https://media.wired.com/photos/6297f7b2ea9c3cb31ee07598/191:100/w_1280,c_limit/Airfare-Algorithms-Paper-Dollar-Airplane-Business-123489419.jpg",
+      "publishedAt": "2022-06-03T11:00:00Z",
+      "content": "But the uneasy pandemic years have made all of this more complicated. Oren Etzioni is now the CEO of the Allen Institute for AI, but in the early 2000s he builtand sold to Microsoftone of the first a… [+3916 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Brenda Stolyar",
+      "title": "Apple’s Software Strategy Is More Important Than Ever",
+      "description": "As it heads into its annual developer conference next week, Apple's focus needs to stay on bits, not atoms.",
+      "url": "https://www.wired.com/story/wwdc-2022-what-to-expect/",
+      "urlToImage": "https://media.wired.com/photos/6298ed8ae6f8c283c8e6511f/191:100/w_1280,c_limit/WWDC-2022-Walkup-Gear-GettyImages-967234480.jpg",
+      "publishedAt": "2022-06-03T11:00:00Z",
+      "content": "Software developer conferences, a long-held tradition for the big tech companies, have evolved in recent years. When the pandemic halted in-person gatherings, developer conferences went fully online,… [+5308 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Ron Amadeo, Ars Technica",
+      "title": "Google Meet and Duo Will Finally Become a Single Video Chat App",
+      "description": "The Duo brand is dying, but its code base will live on.",
+      "url": "https://www.wired.com/story/google-meet-duo-video-messaging-app/",
+      "urlToImage": "https://media.wired.com/photos/629a61081d7f3a893ad08fd7/191:100/w_1280,c_limit/Google-Duo-and-Meet-Gear.jpg",
+      "publishedAt": "2022-06-04T12:00:00Z",
+      "content": "The long-rumored Google Duo and Google Meet merger is actually happening. Google officially confirmed the move on June 1, explaining in a blog post that the goal is to create a single video communic… [+3302 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "Amazon Watches Its Workers and Waits for Them to Fail",
+      "description": "Plus: A new Microsoft Surface laptop, sharable holograms, and Google cleans up its messaging mess.",
+      "url": "https://www.wired.com/story/amazon-worker-tracking-details-revealed/",
+      "urlToImage": "https://media.wired.com/photos/629a46aee6f8c283c8e65129/191:100/w_1280,c_limit/Amazon-Tracking-Employees-Gear-GettyImages-1231869556.jpg",
+      "publishedAt": "2022-06-04T13:00:00Z",
+      "content": "Ever sit there waiting for an Amazon package to be delivered, constantly refreshing your screen to see up-to-the-minute location updates? Thats kind of how it works in an Amazon warehouse too. The on… [+5107 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Marino",
+      "title":"Vergecast: Meta’s executive shakeup, vaporware cars, and a WWDC preview",
+      "description": "Our podcast covers Sheryl Sandberg stepping down as COO of Meta, the real and unreal car news from this week, and a preview of what’s to come at Apple’s WWDC.",
+      "url": "https://www.theverge.com/23153028/vergecast-499-podcast-sandberg-facebook-unreal-engine-volvo-delorean-wwdc-2022",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/C3c7KuMoGF-tzu8BH0xiE4qkN3E=/0x27:1384x752/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23588574/apple_wwdc_2022.jpg",
+      "publishedAt": "2022-06-03T14:01:35Z",
+      "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel and editor-at-large David Pierce discuss t… [+1971 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "1More’s noise-canceling ComfoBuds Pro are nearly half off at $55",
+      "description": "1More’s ComfoBuds Pro earbuds start at just $55 today instead of $94.99. You can also take advantage of deals on the Fitbit Versa 3 and stylish Fitbit Luxe, as well as HP’s Spectre x360 14, all of which are heavily discounted.",
+      "url": "https://www.theverge.com/good-deals/2022/6/3/23151589/1more-comfobuds-pro-earbuds-fitbit-versa-3-luxe-hp-spectre-x360-14-echo-show-15-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nBMvj07_Gdsig_6xRR5MVO3HSzQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22390469/DSCF3309_Edited.jpg",
+      "publishedAt": "2022-06-03T16:01:14Z",
+      "content": "Plus, Fitbits Versa 3 is cheaper than ever\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe ComfoBuds Pro normally retail for $94.99, but right… [+7389 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Color E Ink and Android are an exciting, excruciating pairing",
+      "description": "E Ink can’t keep up.",
+      "url": "https://www.theverge.com/23150045/onyx-boox-nova-air-c-review-color-e-ink-android-tablet-e-reader",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/w7rh_pX37x-Yb75cmPtmrJNGdus=/0x196:2040x1264/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23598275/jporter_220527_5252_0005.jpg",
+      "publishedAt": "2022-06-04T13:00:00Z",
+      "content": "Torn between being a souped-up e-reader and a stripped-down tablet Some people use camomile tea, others use breathing exercises, but, for me, the most reliable tactic for getting to sleep quickly is … [+11183 chars]"
+    }
+  ]
+}
