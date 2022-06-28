@@ -1,0 +1,12 @@
+json = JavaScript Object Notation
+특징 : 구조가 쉬우며 보편적인 데이터 전송방식
+nested list + dictionary
+
+python의 json library 이용
+
+write : json.dump()
+read : json.load()
+updage : json파일명.update()
+
+
+#자신의 데이터 json(json bin)을 api로 만들수 있는 사이트 : npoint.io
