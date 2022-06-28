@@ -1,0 +1,24 @@
+#해당 프로젝트의 정의, 목적 등을 분명하게 파악
+#로직 구조 - 구성도 그려보기(draw.io)
+
+#요구사항 - 리소스 파악 - 리소스에 따른 행동 - 판단 - 결과물 -
+
+#Procedural Programming(절차지향) - 다양한 로직과 스파게티
+#Object Programming(객체지향) - 객체를 구성하는 요소인 속성, 메소드
+#attributes(속성, 변수), methods(함수) : 모델 구성 ; 가진것과 하는것 구분
+#class: 비슷한 것들을 찍어낼 수 있는 틀(모델) - blueprint - 파스칼의 표기법(단어앞글자는 대문자로 표시)
+#object: class로 부터 만들어진 개별 객체
+
+
+#car = CarBlueprint()
+#CarBlueprint() : class
+#car = object
+
+#Library(코드 라이브러리) = Turtle Graphics(거북이가 붓을 바꾸어 가지고 다니면 여러 선을 긋는다는 등)
+
+
+
+########################참고할만한 사이트###############
+형식 변환 사이트 : freeformatter.com
+질문지 오픈 데이터 : https://opentdb.com/bg_blue_config.php
+HTTP 상태 코드 : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
