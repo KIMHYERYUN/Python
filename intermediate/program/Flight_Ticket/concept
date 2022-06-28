@@ -1,0 +1,15 @@
+1. 구글시트 - 목적지, 상한가
+2. 항공검색 API - 향후 6개월 간 가격보다 낮은 것 추출
+3. 발견시 SMS
+
+
++
+4. 고객등록코드 만들기 - user 구글 시트(first/last name, email) -> sheety와 동기화
+
+구글 시트 데이터 관리 - https://sheety.co/
+
+키위닷컴 파트너 포탈 항공권 검색 API (무료 가입, 신용카드 정보 필요) - https://partners.kiwi.com/
+
+키위닷컴 테킬라 항공권 검색 API 문서 - https://tequila.kiwi.com/portal/docs/tequila_api
+
+SMS API - https://portal.infobip.com/homepage/
